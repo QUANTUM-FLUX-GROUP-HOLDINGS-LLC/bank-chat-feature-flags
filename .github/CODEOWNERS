@@ -1,0 +1,21 @@
+# CODEOWNERS - Enterprise Domain Services
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Equipo de Domain Services (required)
+* @your-github-username
+
+# Kotlin Services
+/src/main/kotlin/ @your-github-username
+
+# Tests
+/src/test/ @your-github-username
+
+# Feature Flags
+/flag-definitions/ @your-github-username
+/configs/ @your-github-username
+
+# Integration (SAT/IMSS/etc)
+/integration/ @your-github-username
+
+# Tax Rules
+/rules/ @your-github-username
